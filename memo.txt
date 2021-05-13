@@ -2,5 +2,6 @@
 https://0urtrees.tistory.com/41
 
 2. 기존 프로젝트 추가 방법
+https://mr-dan.tistory.com/39
 => 우선 빈폴더에 git init 하고 pull 받고 => 다른곳에 존재하는 기존프로젝트 복사하여 동기화
 : 이유는 빈 폴더 pull 받아서 시작점을 동기화해야 하기때문
