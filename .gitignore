@@ -16,7 +16,7 @@ local.properties
 .recommenders
 
 ### intellij ###
-.idea
+#.idea
 
 # External tool builders
 .externalToolBuilders/
